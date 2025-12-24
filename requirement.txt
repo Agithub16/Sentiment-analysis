@@ -1,0 +1,11 @@
+streamlit
+newsapi-python
+textblob
+pandas
+
+
+for run this application 
+
+we use this command line on terminal .....   python -m streamlit run app.py 
+
+
